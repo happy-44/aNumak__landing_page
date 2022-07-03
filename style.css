@@ -1,0 +1,589 @@
+body{
+    margin: 0rem;
+}
+.main_photo img{
+    height:112.8vh;
+    width: 98.72vw;
+    
+    filter: brightness(58%);
+    filter:blur(4px);
+    
+}
+.f1 img{
+    height: 6rem;
+    width: 15vw;
+    position: absolute; 
+    top: 1.5rem;
+    left:0.5rem;
+    transform: rotate(-1deg);
+}
+.f2{
+    background-color: red;
+    height:4.8rem;
+    width: 15rem;
+    position: absolute;
+    top:2.1rem;
+    left:9rem;
+}
+.f2 p{
+    font-size: 1.3rem;
+    padding-left: 0.9rem;
+    padding-right: 0.5rem;
+    font-weight: bold;
+    margin-top: 0.8rem;
+}
+.f3 h1{
+    color: #33ff9a;
+    position: absolute;
+    top:1.5rem;
+    transform: rotate(-12deg);
+    left: 1rem;
+}
+.f4 h5{
+    color:#33ff9a;
+    position: absolute;
+    top:6rem;
+    left:5rem;
+}
+.f5{
+    height: 4.6rem;
+    width: 15rem;
+    background-color: red;
+    font-size: 1.7rem;
+    position: absolute;
+    top:2.3rem;
+    left:44rem;
+}
+.f5 h5{
+    padding: 0.5rem;
+    text-align: center;
+    margin-top: 0.4rem;
+}
+.f6{
+    height: 3rem;
+    width: 19rem;
+    font-size: large;
+    background-color:#ffcc33;
+    text-align: center;
+    position: absolute;
+    top:3rem;
+    left:58rem;
+}
+.f6 h3{
+    margin-top: 0.8rem;
+    font-size: 1.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+
+}
+.f7 h1{
+    position: absolute;
+    top: 4rem;
+    left:13rem;
+    font-size: 7rem;
+    color:#33ff9a;
+    font-family:Sans-serif;
+    letter-spacing: -0.6rem;
+}
+.f8 h1{
+    position: absolute;
+    top: 4rem;
+    left:23rem;
+    font-size: 7rem;
+    color: white;
+    font-family:Sans-serif;
+    letter-spacing: -0.6rem;
+}.f9 h1{
+    position: absolute;
+    top: 4rem;
+    left:38rem;
+    font-size: 7rem;
+    color:#33ff9a;
+    font-family:Sans-serif;
+    letter-spacing: -0.6rem;
+}.f10 h1{
+    position: absolute;
+    top: 4rem;
+    left:48rem;
+    font-size: 7rem;
+    color: white;
+    font-family:Sans-serif;
+    letter-spacing: -0.6rem;
+}.f11 h1{
+    position: absolute;
+    top: 11rem;
+    left:25rem;
+    font-size: 7rem;
+    color:#33ff9a;
+    font-family:Sans-serif;
+    letter-spacing: -0.6rem;
+}
+.f12 h1{
+    position: absolute;
+    top: 11rem;
+    left:30rem;
+    font-size: 7rem;
+    color: white;
+    font-family:Sans-serif;
+    letter-spacing: -0.6rem;
+}
+.f13 p{
+    font-weight: 700;
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 24.5rem;
+    left: 7rem;
+    text-transform: uppercase;
+}
+.f15 p{
+    font-weight: 700;
+    color: white;
+    font-size: 1.5rem;
+    position: absolute;
+    top: 26.2rem;
+    left: 16.2rem;
+    text-transform: uppercase;
+    margin-top: 2rem;
+}
+.f14 p{
+    font-weight: 700;
+    color:#ffcc33;
+    font-size: 1.5rem;
+    position: absolute;
+    top:26.2rem;
+    left:20rem;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 2rem;
+    filter: brightness(130%);
+}
+.f16 img{
+    height: 6rem;
+    width: 15vw;
+    position: absolute; 
+    top: 34rem;
+    left:32rem;
+    transform: rotate(-1deg);
+}
+.f17 h1{
+    color: #33ff9a;
+    position: absolute;
+    top:34.5rem;
+    transform: rotate(-12deg);
+    left: 32rem;
+}
+.f18 h5{
+    color:#33ff9a;
+    position: absolute;
+    top:39rem;
+    left:35.5rem;
+    font-size: 0.6rem;
+}
+.f19{
+    background-color: red;
+    height:4.8rem;
+    width: 15rem;
+    position: absolute;
+    top: 31.5rem;
+    left:30.5rem;
+}
+.f19 p{
+    font-size: 1.3rem;
+    padding-left: 0.9rem;
+    padding-right: 0.5rem;
+    font-weight: bold;
+    margin-top: 0.8rem;
+}
+.f20 p{
+    position: absolute;
+    top:34.5rem;
+    left:19.5rem;
+    font-weight: 700;
+    color:white;
+    font-size: 2rem;
+}
+.f21 p{
+    position: absolute;
+    top:34.5rem;
+    left:47.5rem;
+    font-weight: 700;
+    color:white;
+    font-size: 2rem;
+}
+.f22 h1{
+    position: absolute;
+    top:30rem;
+    left:53.5rem;
+    font-weight: 700;
+    color:#33ff9a;
+    font-size: 6rem;
+}
+.sym{
+    /* background-color: red; */
+    height: 2rem;
+    display: flex;
+    margin-top: -0.4rem;
+}
+.ims img{
+    height:4rem;
+    width:4.6rem;
+    margin-top: 0.5rem;
+}
+.ex{
+    height: 5rem;
+    width: 36rem;
+    background-color: red;
+    text-align: center;
+    position: absolute;
+    top:41.5rem;
+    left:21.5rem;
+}.ex h1{
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding-top: 0.5rem;
+}
+.next{
+    height: 123vh;
+    background-color:#33ff9a;
+}
+.f23 p{
+    font-size: 3rem;
+    margin-left: 5rem;
+    padding-top: 2rem;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: -0.35rem;
+    font-family:Sans-serif;
+    word-spacing: 0.4rem;
+    font-weight: bold;
+}
+.f231 p{
+    font-size: 3rem;
+    margin-left: 18rem;
+    padding-top: 2rem;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: -0.3rem;
+    font-family:Sans-serif;
+    word-spacing: 0.5rem;
+    font-weight: bold;
+    margin-top: -5.5rem;
+}
+.f24 p{
+    text-align: center;
+    margin-top: -1.5rem;
+}
+.f25 p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: 53rem;
+}
+.f251 p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: 58rem;
+    margin-top: -1.5rem;
+}
+.f27{
+    overflow: hidden;
+    height: 21rem;
+    width: 45rem;
+}
+.f27 video{
+    margin-left: 5rem;
+    margin-top: -1rem;
+    overflow: hidden;
+}
+.f28{
+    height: 23rem;
+    width: 20rem;
+    border: 11px solid black;
+    margin-left: 5rem;
+    margin-top: -1rem;
+}
+.f26{
+    display: flex;
+}
+.f29{
+    height:2rem;
+    margin-top: 0.78rem;
+}
+.f291{
+    height:2rem;
+    margin-top: 0.3rem;
+}
+.f29 p{
+    text-align: center;
+    margin-top: -0.9rem;
+    font-size: 1.3rem;
+    padding-top: 0.3rem;
+}
+.f291 p{
+    text-align: center;
+    margin-top: 0rem;
+    font-size: 1.3rem;
+}
+.f29:hover{
+    background-color: red;
+}
+.f291:hover{
+    background-color: red;
+}
+.f27 video:hover{
+    transform: scale(1.1);
+    transition-duration: 0.50s;
+    border:6px solid black;
+}
+.f30{
+    height:4rem;
+    width:15rem;
+    background-color: red;
+    position: absolute;
+    top:74rem;
+    left:17rem;
+}
+.f31 p{
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+.f311 p{
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: -1rem;
+}
+.f32{
+    height:4rem;
+    width:15rem;
+    background-color: red;
+    position: absolute;
+    top:86rem;
+    left:53rem;
+}
+.f33 p{
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+.f331 p{
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: -1rem;
+}
+.f34 img{
+    position: absolute;
+    left:70.9rem;
+    top:91rem;
+    width: 8rem;
+    height: 1.5rem;
+}
+.next1{
+    height:115vh;
+    /* background-color: red; */
+    margin-top: -1.5rem;
+}
+.f35 h1{
+    padding-top: 5rem;
+    text-align: center;
+    font-size: 3rem;
+    color:#ffcc33;
+    font-weight:900;
+    text-transform: uppercase;
+}
+.f36{
+    display: flex;
+    width: 98.72vw;
+}
+.f37{
+    height: 21rem;
+    width: 14rem;
+    background-color: red;
+    margin-left: 0.3rem;
+}
+.f37 p{
+    padding-top: 10rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-align: center;
+}
+.f38{
+    width: 20rem;
+    margin-left: 2rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-align: center;
+}
+.f41 p{
+    margin-top: -1rem;
+}
+.f45 p{
+    margin-top: -1rem;
+}
+.f46 p{
+    margin-top: -1rem;
+}
+.f40 p{
+    margin-top: 2rem;
+}
+.f44 p{
+    margin-top: 2rem;
+}
+.f49 p{
+    margin-top: 2rem;
+}
+.f50 p{
+    margin-top: -1rem;
+}
+.f42{
+    width: 20rem;
+    margin-left: 2rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-align: center;
+}
+.f47{
+    width: 20rem;
+    margin-left: 1.5rem;
+    font-size: 1.3rem;
+    font-weight: 600;
+    text-align: center;
+}
+.f39 img{
+    height:10rem;
+    width: 12rem;
+}
+.f43 img{
+    height:10rem;
+    width: 14rem;
+}
+.f48 img{
+    height:10rem;
+    width: 10rem;
+}
+.f51{
+    margin-top: 6rem;
+}
+.f51 p{
+    text-align: center;
+    font-weight: 600;
+}
+.f52 img{
+    position: absolute;
+    left:70.9rem;
+    top:135rem;
+    width: 8rem;
+    height: 1.5rem;
+}
+.f53 img{
+    height:90vh;
+    width: 98.40vw;
+    filter:blur(4px);
+    border: 2px solid white;
+}
+.f54 p{
+    font-size: 3rem;
+    letter-spacing: -0.2rem;
+    word-spacing: 0.5rem;
+    color:#33ff9a;
+    font-weight: 700;
+    font-style: italic;
+    position: absolute;
+    top:150rem;
+    left:4rem;
+}
+.f55{
+    height: 3rem;
+    width: 20rem;
+    background-color: red;
+    position: absolute;
+    top:169.8rem;
+    left:55rem;
+}
+.f55 p{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0.7rem;
+    color: white;
+}
+.info{
+    height: 10rem;
+    background-color:#7c7d71;
+    margin-top: -1.8rem;
+    display: flex;
+}
+.f56 p{
+   font-size: 1.5rem;
+   color: white; 
+   padding-top: 2rem;
+   padding-left: 2rem;
+   font-weight: 600;
+}
+.f57 p{
+   font-size: 1.5rem;
+   color: white; 
+   padding-top: 2rem;
+   padding-left: 6rem;
+   font-weight: 600;
+}
+.f58 img{
+    position: absolute;
+    left:70.9rem;
+    top:178rem;
+    width: 8rem;
+    height: 1.5rem;
+}
+.next3{
+    height: 108vh;
+}
+.f59 p{
+    font-size: 1.5rem;
+    font-weight: 1000;
+    letter-spacing: -0.09rem;
+    padding-top: 8rem;
+    padding-left: 8rem;
+}
+.f60 p{
+    font-size: 1.3rem;
+    font-weight: 550;
+    letter-spacing: -0.09rem;
+    padding-left: 8rem;
+    padding-top: 0.5rem;
+}
+.f61 img{
+    position: absolute;
+    left:70.9rem;
+    top:220rem;
+    width: 8rem;
+    height: 1.5rem;
+}
+.last{
+    height: 4rem;
+    background-color: black;
+    display: flex;
+}
+.f62 p{
+    color: white;
+    margin-left: 1rem;
+    padding-top: 0.5rem;
+}
+.f63 p{
+    color: white;
+    margin-left: 60rem;
+    padding-top: 0.5rem;
+}
+.f200{
+    margin-top: -0.5rem;
+    margin-left: 6rem;
+
+}
+.f200 input{
+    height: 3rem;
+    width: 15rem;
+    border-radius: 6rem;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    padding-left: 4rem;
+}
